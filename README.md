@@ -1,6 +1,5 @@
 # Optimized Course Recommendation System
 
-**Profile Fit**: *Data Science Engineer*  
 **Author**: Akshat Bisht  
 **Date**: August 13, 2025
 
